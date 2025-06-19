@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sunsh/MLOps-adenocarcinoma-classification/mlruns/0/models/m-d9b8bb7d332049baa217957049f93033/artifacts
+creation_timestamp: 1750307330116
+experiment_id: '0'
+last_updated_timestamp: 1750307346196
+model_id: m-d9b8bb7d332049baa217957049f93033
+model_type: null
+name: model
+source_run_id: 9b90df2a33804b869ea622b48f61066d
+status: 2
+status_message: null

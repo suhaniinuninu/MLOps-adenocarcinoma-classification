@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sunsh/MLOps-adenocarcinoma-classification/mlruns/0/2a73d512c8bb4df9b4735135196096cc/artifacts
+end_time: 1750238490685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a73d512c8bb4df9b4735135196096cc
+run_name: skittish-rook-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750238474511
+status: 3
+tags: []
+user_id: sunshinysuhani

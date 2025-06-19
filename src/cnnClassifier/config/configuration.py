@@ -9,13 +9,11 @@ from cnnClassifier.entity.config_entity import (DataIngestionConfig,
 
 class ConfigurationManager:
     def __init__(
-        self,
-        config_filepath = CONFIG_FILE_PATH,
-        params_filepath = PARAMS_FILE_PATH):
-
+    self,
+    config_filepath: str = os.path.join(os.getcwd(), "config", "config.yaml"),
+    params_filepath: str = os.path.join(os.getcwd(), "params.yaml")):
         self.config = read_yaml(config_filepath)
         self.params = read_yaml(params_filepath)
-
         create_directories([self.config.artifacts_root])
 
 
@@ -76,6 +74,8 @@ class ConfigurationManager:
         )
 
         return training_config
+    
+       
     
 
 

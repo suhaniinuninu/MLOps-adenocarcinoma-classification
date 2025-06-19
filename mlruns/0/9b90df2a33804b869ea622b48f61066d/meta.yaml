@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sunsh/MLOps-adenocarcinoma-classification/mlruns/0/9b90df2a33804b869ea622b48f61066d/artifacts
+end_time: 1750307346227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b90df2a33804b869ea622b48f61066d
+run_name: bedecked-lynx-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750307330005
+status: 3
+tags: []
+user_id: sunshinysuhani

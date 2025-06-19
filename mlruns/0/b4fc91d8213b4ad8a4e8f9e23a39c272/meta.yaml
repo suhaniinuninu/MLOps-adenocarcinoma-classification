@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sunsh/MLOps-adenocarcinoma-classification/mlruns/0/b4fc91d8213b4ad8a4e8f9e23a39c272/artifacts
+end_time: 1749969233955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4fc91d8213b4ad8a4e8f9e23a39c272
+run_name: secretive-wren-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749969217915
+status: 3
+tags: []
+user_id: sunshinysuhani
